@@ -1,0 +1,1 @@
+This task demonstrates CSS selectors and styling using HTML and CSS

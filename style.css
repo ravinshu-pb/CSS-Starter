@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(238, 127, 127);
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
